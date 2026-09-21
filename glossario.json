@@ -4,456 +4,530 @@
     "termo": "ACI",
     "grupo": "org",
     "texto": "Principal organização global que representa e serve às cooperativas, também conhecida pela sigla em inglês ICA (International Cooperative Alliance). Fundada em Londres, no 1º Congresso Cooperativo, teve sede em Londres, depois Genebra, e atualmente em Bruxelas. Atua por meio de escritórios regionais na África, Américas, Ásia-Pacífico e Europa, e é quem define, em seus congressos, os princípios vigentes do cooperativismo.",
-    "abbr": "Aliança Cooperativa Internacional"
+    "abbr": "Aliança Cooperativa Internacional",
+    "tags": "teste; outro teste; muitos;",
+    "evidenciar": "sim"
   },
   {
     "id": "admissao-demissao-eliminacao-e-exclusao",
     "termo": "Admissão, demissão, eliminação e exclusão",
     "grupo": "estrut",
-    "texto": "Formas de entrada e saída do quadro social. A demissão é voluntária, a pedido do associado. A eliminação é compulsória, por infração prevista no estatuto. A exclusão decorre de situações objetivas, como perda das condições de associação ou falecimento. As hipóteses e o procedimento devem estar expressos no estatuto."
+    "texto": "Formas de entrada e saída do quadro social. A demissão é voluntária, a pedido do associado. A eliminação é compulsória, por infração prevista no estatuto. A exclusão decorre de situações objetivas, como perda das condições de associação ou falecimento. As hipóteses e o procedimento devem estar expressos no estatuto.",
+    "evidenciar": "não"
   },
   {
     "id": "agropecuario",
     "termo": "Agropecuário",
     "grupo": "ramos",
-    "texto": "Organiza produtores rurais para assistência técnica, industrialização e comercialização da produção. Historicamente o ramo mais expressivo do cooperativismo brasileiro e o que mais influenciou a formatação da legislação nacional."
+    "texto": "Organiza produtores rurais para assistência técnica, industrialização e comercialização da produção. Historicamente o ramo mais expressivo do cooperativismo brasileiro e o que mais influenciou a formatação da legislação nacional.",
+    "evidenciar": "sim"
   },
   {
     "id": "anomalia",
     "termo": "Anomalia",
     "grupo": "reg",
     "texto": "Movimento inverso ao da equiparação: a cooperativa é reconhecida como diferente, mas em contexto no qual a empresa é a forma natural de organização da produção. A cooperativa aparece como exceção que precisa ser mencionada expressamente para existir — e, onde não for mencionada, presume-se excluída.",
-    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina."
+    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina.",
+    "evidenciar": "não"
   },
   {
     "id": "area-de-acao",
     "termo": "Área de ação",
     "grupo": "estrut",
-    "texto": "Território dentro do qual a cooperativa pode admitir associados e prestar seus serviços, definido no estatuto. Historicamente, modelos como o de Raiffeisen adotavam áreas restritas, apostando no vínculo comunitário como garantia de confiança."
+    "texto": "Território dentro do qual a cooperativa pode admitir associados e prestar seus serviços, definido no estatuto. Historicamente, modelos como o de Raiffeisen adotavam áreas restritas, apostando no vínculo comunitário como garantia de confiança.",
+    "evidenciar": "não"
   },
   {
     "id": "assembleia-geral",
     "termo": "Assembleia Geral",
     "grupo": "estrut",
     "texto": "Órgão máximo de deliberação da cooperativa, no qual se realiza a gestão democrática. A Assembleia Geral Ordinária ocorre anualmente, com prestação de contas, aprovação de balanço e destinação das sobras. A Extraordinária é convocada quando necessário, para deliberar sobre matérias específicas — inclusive reforma do estatuto.",
-    "abbr": "AGO e AGE"
+    "abbr": "AGO e AGE",
+    "evidenciar": "não"
   },
   {
     "id": "ato-cooperativo",
     "termo": "Ato cooperativo",
     "grupo": "econ",
-    "texto": "Operação realizada entre a cooperativa e seus associados, ou entre cooperativas entre si, na consecução dos objetivos sociais. Não configura operação de mercado nem contrato de compra e venda — e é justamente essa natureza que fundamenta o pedido de tratamento tributário específico para as cooperativas."
+    "texto": "Operação realizada entre a cooperativa e seus associados, ou entre cooperativas entre si, na consecução dos objetivos sociais. Não configura operação de mercado nem contrato de compra e venda — e é justamente essa natureza que fundamenta o pedido de tratamento tributário específico para as cooperativas.",
+    "evidenciar": "não"
   },
   {
     "id": "autogestao",
     "termo": "Autogestão",
     "grupo": "base",
-    "texto": "Modelo em que os próprios membros administram a organização, definindo rumos, elegendo dirigentes e fiscalizando a gestão. Desafia a hierarquia tradicional de supervisão e controle e é um dos fundamentos que distinguem a cooperativa da empresa convencional."
+    "texto": "Modelo em que os próprios membros administram a organização, definindo rumos, elegendo dirigentes e fiscalizando a gestão. Desafia a hierarquia tradicional de supervisão e controle e é um dos fundamentos que distinguem a cooperativa da empresa convencional.",
+    "evidenciar": "não"
   },
   {
     "id": "barreiras-silenciosas",
     "termo": "Barreiras silenciosas",
     "grupo": "reg",
-    "texto": "Obstáculos que não aparecem no texto da lei, como a assimetria de fiscalização — que recai com mais peso sobre os pequenos — e a omissão estatal diante de práticas anticoncorrenciais que prejudicam a diversidade produtiva."
+    "texto": "Obstáculos que não aparecem no texto da lei, como a assimetria de fiscalização — que recai com mais peso sobre os pequenos — e a omissão estatal diante de práticas anticoncorrenciais que prejudicam a diversidade produtiva.",
+    "evidenciar": "não"
   },
   {
     "id": "capital-social",
     "termo": "Capital social",
     "grupo": "econ",
-    "texto": "Soma das quotas-partes integralizadas pelos associados. É variável e destina-se ao desenvolvimento das atividades da cooperativa. Além de custear a operação, influencia a capacidade da cooperativa de oferecer garantias em operações de crédito."
+    "texto": "Soma das quotas-partes integralizadas pelos associados. É variável e destina-se ao desenvolvimento das atividades da cooperativa. Além de custear a operação, influencia a capacidade da cooperativa de oferecer garantias em operações de crédito.",
+    "evidenciar": "não"
   },
   {
     "id": "central-ou-federacao",
     "termo": "Central ou federação",
     "grupo": "estrut",
-    "texto": "Cooperativa de segundo grau, formada pela associação de cooperativas singulares. Presta serviços comuns às filiadas — tecnologia, negociação, representação, produtos — permitindo ganhos de escala que uma singular isolada não alcançaria."
+    "texto": "Cooperativa de segundo grau, formada pela associação de cooperativas singulares. Presta serviços comuns às filiadas — tecnologia, negociação, representação, produtos — permitindo ganhos de escala que uma singular isolada não alcançaria.",
+    "evidenciar": "não"
   },
   {
     "id": "charles-gide",
     "termo": "Charles Gide",
     "grupo": "hist",
-    "texto": "Economista francês cujos ensinamentos difundiram a doutrina cooperativista, inclusive no Brasil, onde já se lia sobre cooperativismo nos jornais antes do surgimento das primeiras cooperativas nacionais. Sistematizou a ambição de que o cooperativismo alcançasse também a produção industrial e o setor primário."
+    "texto": "Economista francês cujos ensinamentos difundiram a doutrina cooperativista, inclusive no Brasil, onde já se lia sobre cooperativismo nos jornais antes do surgimento das primeiras cooperativas nacionais. Sistematizou a ambição de que o cooperativismo alcançasse também a produção industrial e o setor primário.",
+    "evidenciar": "não"
   },
   {
     "id": "cncoop",
     "termo": "CNCoop",
     "grupo": "org",
     "texto": "Braço de representação sindical do cooperativismo brasileiro, responsável pela defesa dos interesses das cooperativas nas relações de trabalho e nas negociações coletivas do setor.",
-    "abbr": "Confederação Nacional das Cooperativas"
+    "abbr": "Confederação Nacional das Cooperativas",
+    "evidenciar": "não"
   },
   {
     "id": "confederacao",
     "termo": "Confederação",
     "grupo": "estrut",
-    "texto": "Cooperativa de terceiro grau, formada pela associação de centrais ou federações. Atua na representação e na coordenação estratégica de todo um ramo ou sistema em âmbito nacional."
+    "texto": "Cooperativa de terceiro grau, formada pela associação de centrais ou federações. Atua na representação e na coordenação estratégica de todo um ramo ou sistema em âmbito nacional.",
+    "evidenciar": "não"
   },
   {
     "id": "conselho-de-administracao-e-diretoria",
     "termo": "Conselho de Administração e Diretoria",
     "grupo": "estrut",
-    "texto": "Órgãos responsáveis pela administração da cooperativa, eleitos pela assembleia entre os associados, com mandato limitado e renovação obrigatória de parte dos membros. Os dirigentes respondem pelos prejuízos decorrentes de atos praticados com culpa ou dolo, e há vedações quanto a parentesco e a voto em situações de conflito de interesse."
+    "texto": "Órgãos responsáveis pela administração da cooperativa, eleitos pela assembleia entre os associados, com mandato limitado e renovação obrigatória de parte dos membros. Os dirigentes respondem pelos prejuízos decorrentes de atos praticados com culpa ou dolo, e há vedações quanto a parentesco e a voto em situações de conflito de interesse.",
+    "evidenciar": "não"
   },
   {
     "id": "conselho-fiscal",
     "termo": "Conselho Fiscal",
     "grupo": "estrut",
-    "texto": "Órgão de fiscalização da gestão, eleito pela assembleia e independente da administração. Sua existência é o que permite que o controle democrático não dependa apenas da confiança nos dirigentes."
+    "texto": "Órgão de fiscalização da gestão, eleito pela assembleia e independente da administração. Sua existência é o que permite que o controle democrático não dependa apenas da confiança nos dirigentes.",
+    "evidenciar": "não"
   },
   {
     "id": "consumo",
     "termo": "Consumo",
     "grupo": "ramos",
-    "texto": "Reúne pessoas para adquirir produtos ou serviços em melhores condições — supermercados, farmácias, cooperativas educacionais, turismo. O que caracteriza o ramo não é o produto vendido, mas o fato de consumidores se unirem para obter melhor prestação."
+    "texto": "Reúne pessoas para adquirir produtos ou serviços em melhores condições — supermercados, farmácias, cooperativas educacionais, turismo. O que caracteriza o ramo não é o produto vendido, mas o fato de consumidores se unirem para obter melhor prestação.",
+    "evidenciar": "não"
   },
   {
     "id": "coop2coop",
     "termo": "Coop2Coop",
     "grupo": "org",
-    "texto": "Comércio realizado entre cooperativas em âmbito internacional, fortalecendo economicamente tanto as produtoras quanto as consumidoras. Aproxima-se do movimento de comércio justo e é uma das expressões mais concretas do princípio da intercooperação."
+    "texto": "Comércio realizado entre cooperativas em âmbito internacional, fortalecendo economicamente tanto as produtoras quanto as consumidoras. Aproxima-se do movimento de comércio justo e é uma das expressões mais concretas do princípio da intercooperação.",
+    "evidenciar": "não"
   },
   {
     "id": "cooperado",
     "termo": "Cooperado",
     "grupo": "base",
     "texto": "Membro da cooperativa. Reúne tripla qualidade: é dono, usuário e beneficiário da atividade. Todos possuem os mesmos direitos e deveres, independentemente da quantidade de quotas-partes que detenham.",
-    "abbr": "ou associado"
+    "abbr": "ou associado",
+    "evidenciar": "não"
   },
   {
     "id": "cooperar",
     "termo": "Cooperar",
     "grupo": "base",
-    "texto": "Trabalhar em conjunto por objetivos comuns, com participação ativa, compartilhamento equitativo de responsabilidades e benefícios, e decisões tomadas coletivamente. Cooperar não é apenas somar esforços: é organizar-se de modo que o resultado do esforço conjunto retorne a quem o produziu."
+    "texto": "Trabalhar em conjunto por objetivos comuns, com participação ativa, compartilhamento equitativo de responsabilidades e benefícios, e decisões tomadas coletivamente. Cooperar não é apenas somar esforços: é organizar-se de modo que o resultado do esforço conjunto retorne a quem o produziu.",
+    "evidenciar": "não"
   },
   {
     "id": "cooperativa",
     "termo": "Cooperativa",
     "grupo": "base",
-    "texto": "Associação autônoma de pessoas unidas voluntariamente para atender necessidades econômicas, sociais e culturais comuns, por meio de uma empresa de propriedade conjunta e controlada democraticamente. É sociedade *de pessoas*, não de capital."
+    "texto": "Associação autônoma de pessoas unidas voluntariamente para atender necessidades econômicas, sociais e culturais comuns, por meio de uma empresa de propriedade conjunta e controlada democraticamente. É sociedade *de pessoas*, não de capital.",
+    "evidenciar": "não"
   },
   {
     "id": "cooperativa-singular",
     "termo": "Cooperativa singular",
     "grupo": "estrut",
-    "texto": "Cooperativa de primeiro grau, constituída diretamente por pessoas físicas — é o nível em que o cooperado se associa e vota. É a base de todo o sistema cooperativo."
+    "texto": "Cooperativa de primeiro grau, constituída diretamente por pessoas físicas — é o nível em que o cooperado se associa e vota. É a base de todo o sistema cooperativo.",
+    "evidenciar": "não"
   },
   {
     "id": "cooperativismo",
     "termo": "Cooperativismo",
     "grupo": "base",
-    "texto": "Sistema econômico e social baseado na cooperação e na propriedade conjunta dos meios de produção e consumo pelos seus membros. Atua dentro do capitalismo, mas não se rege pelos princípios e valores do sistema capitalista — o que explica por que seu vocabulário é distinto."
+    "texto": "Sistema econômico e social baseado na cooperação e na propriedade conjunta dos meios de produção e consumo pelos seus membros. Atua dentro do capitalismo, mas não se rege pelos princípios e valores do sistema capitalista — o que explica por que seu vocabulário é distinto.",
+    "evidenciar": "não"
   },
   {
     "id": "credito",
     "termo": "Crédito",
     "grupo": "ramos",
-    "texto": "Oferece serviços financeiros com gestão democrática e sem finalidade lucrativa, buscando inclusão financeira e educação econômica. As singulares organizam-se em sistemas nacionais que operam bancos cooperativos próprios."
+    "texto": "Oferece serviços financeiros com gestão democrática e sem finalidade lucrativa, buscando inclusão financeira e educação econômica. As singulares organizam-se em sistemas nacionais que operam bancos cooperativos próprios.",
+    "evidenciar": "não"
   },
   {
     "id": "dia-c",
     "termo": "Dia C",
     "grupo": "org",
     "texto": "Programa nacional que mobiliza cooperativas em ações voluntárias nas áreas de saúde, educação, meio ambiente e assistência social. As ações são desenvolvidas ao longo do ano e apresentadas em uma data de celebração coletiva. É a expressão institucional do 7º princípio no Brasil.",
-    "abbr": "Dia de Cooperar"
+    "abbr": "Dia de Cooperar",
+    "evidenciar": "não"
   },
   {
     "id": "discrepancia-temporal",
     "termo": "Discrepância temporal",
     "grupo": "reg",
     "texto": "O tempo operando como obstáculo: atraso nas atualizações legislativas, demora entre a promulgação de uma norma favorável e sua aplicação efetiva, e distância entre a inovação cooperativa e sua regulamentação. Em certos casos, o próprio tempo de espera funciona como instrumento de marginalização.",
-    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina."
+    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina.",
+    "evidenciar": "não"
   },
   {
     "id": "doutrina-cooperativista",
     "termo": "Doutrina cooperativista",
     "grupo": "base",
-    "texto": "Conjunto de orientações éticas e políticas que fundamentam a ação cooperativa — solidariedade, democracia, equidade, autonomia. Situa-se no plano do \"dever ser\": é um ideal que orienta práticas mesmo diante das imperfeições concretas, servindo como paradigma de correção e aperfeiçoamento."
+    "texto": "Conjunto de orientações éticas e políticas que fundamentam a ação cooperativa — solidariedade, democracia, equidade, autonomia. Situa-se no plano do \"dever ser\": é um ideal que orienta práticas mesmo diante das imperfeições concretas, servindo como paradigma de correção e aperfeiçoamento.",
+    "evidenciar": "não"
   },
   {
     "id": "economia-solidaria",
     "termo": "Economia solidária",
     "grupo": "base",
-    "texto": "Modo de produção e distribuição alternativo ao modelo capitalista, focado na socialização dos meios de produção e na gestão democrática. Abrange cooperativas, associações, grupos informais e redes de troca, com ênfase em autogestão, sustentabilidade e responsabilidade social."
+    "texto": "Modo de produção e distribuição alternativo ao modelo capitalista, focado na socialização dos meios de produção e na gestão democrática. Abrange cooperativas, associações, grupos informais e redes de troca, com ênfase em autogestão, sustentabilidade e responsabilidade social.",
+    "evidenciar": "não"
   },
   {
     "id": "equiparacao",
     "termo": "Equiparação",
     "grupo": "reg",
     "texto": "Tratamento da cooperativa como se fosse sociedade empresarial comum, submetendo-a ao mesmo conjunto de regras. Ignora a gestão democrática, a distribuição proporcional ao uso e a ausência de finalidade lucrativa — produzindo desvantagem competitiva e, progressivamente, moldando a cooperativa nos contornos da empresa.",
-    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina."
+    "nota": "Conceito desenvolvido na pesquisa doutoral do professor da disciplina.",
+    "evidenciar": "não"
   },
   {
     "id": "estatuto-social",
     "termo": "Estatuto Social",
     "grupo": "estrut",
     "texto": "Documento jurídico obrigatório que estabelece identidade, organização e funcionamento da cooperativa: denominação, sede, área de ação, objeto social, direitos e deveres dos associados, condições de admissão e saída, valor da quota-parte, critérios de rateio de sobras e perdas, estrutura de administração e fiscalização, regras das assembleias e possibilidade de criação de fundos adicionais.",
-    "nota": "Muitas decisões que parecem \"da lei\" são, na verdade, escolhas do estatuto — inclusive a forma de distribuir sobras."
+    "nota": "Muitas decisões que parecem \"da lei\" são, na verdade, escolhas do estatuto — inclusive a forma de distribuir sobras.",
+    "evidenciar": "não"
   },
   {
     "id": "expansao-cooperativa",
     "termo": "Expansão cooperativa",
     "grupo": "hist",
-    "texto": "Proposta de um oitavo princípio, defendida por teóricos como Paul Lambert, Alicia Drimer e Dionísio Aranzadi. Não trata de crescimento numérico, mas de aspiração política: afirmar o cooperativismo como modelo viável e pluralista de organização econômica e social."
+    "texto": "Proposta de um oitavo princípio, defendida por teóricos como Paul Lambert, Alicia Drimer e Dionísio Aranzadi. Não trata de crescimento numérico, mas de aspiração política: afirmar o cooperativismo como modelo viável e pluralista de organização econômica e social.",
+    "evidenciar": "não"
   },
   {
     "id": "falsa-cooperativa",
     "termo": "Falsa cooperativa",
     "grupo": "reg",
     "texto": "Entidade constituída sob forma cooperativa para mascarar relação de emprego, fraudar direitos trabalhistas ou precarizar o trabalho. Não é um tipo de cooperativa: é uma fraude que se utiliza da forma cooperativa. Identificadas irregularidades, pode ser alvo de ações civis públicas, termos de ajustamento de conduta ou processos administrativos e judiciais.",
-    "nota": "É uma das razões do estigma que recai injustamente sobre cooperativas legítimas — sobretudo as do ramo trabalho."
+    "nota": "É uma das razões do estigma que recai injustamente sobre cooperativas legítimas — sobretudo as do ramo trabalho.",
+    "evidenciar": "não"
   },
   {
     "id": "fases-do-cooperativismo-brasileiro",
     "termo": "Fases do cooperativismo brasileiro",
     "grupo": "hist",
-    "texto": "Periodização proposta por Waldírio Bulgarelli e aprofundada por José Odelso Schneider: implantação, consolidação parcial, centralismo estatal, renovação das estruturas e liberalização. Cada fase expressa uma configuração distinta da relação entre Estado e cooperativas."
+    "texto": "Periodização proposta por Waldírio Bulgarelli e aprofundada por José Odelso Schneider: implantação, consolidação parcial, centralismo estatal, renovação das estruturas e liberalização. Cada fase expressa uma configuração distinta da relação entre Estado e cooperativas.",
+    "evidenciar": "não"
   },
   {
     "id": "fates",
     "termo": "FATES",
     "grupo": "econ",
     "texto": "Fundo obrigatório e indivisível voltado à assistência técnica, educacional e social aos cooperados e — quando o estatuto previr — aos empregados. Nas cooperativas de crédito pode alcançar a comunidade da área de atuação. Resultados de operações com não cooperados devem ser integralmente destinados a ele.",
-    "abbr": "Fundo de Assistência Técnica, Educacional e Social"
+    "abbr": "Fundo de Assistência Técnica, Educacional e Social",
+    "evidenciar": "não"
   },
   {
     "id": "fgcoop",
     "termo": "FGCoop",
     "grupo": "reg",
     "texto": "Associação civil sem fins lucrativos que preserva a estabilidade do cooperativismo de crédito, monitorando riscos e oferecendo camada adicional de segurança aos cooperados. É obrigatório para cooperativas que captam depósitos.",
-    "abbr": "Fundo Garantidor do Cooperativismo de Crédito"
+    "abbr": "Fundo Garantidor do Cooperativismo de Crédito",
+    "evidenciar": "não"
   },
   {
     "id": "fiscalizacao-trabalhista",
     "termo": "Fiscalização trabalhista",
     "grupo": "reg",
-    "texto": "Cabe principalmente ao Ministério do Trabalho, que realiza auditorias e inspeções para verificar o cumprimento das normas legais, e ao Ministério Público do Trabalho, que atua diante de denúncias ou indícios de fraude na constituição ou no funcionamento de uma cooperativa."
+    "texto": "Cabe principalmente ao Ministério do Trabalho, que realiza auditorias e inspeções para verificar o cumprimento das normas legais, e ao Ministério Público do Trabalho, que atua diante de denúncias ou indícios de fraude na constituição ou no funcionamento de uma cooperativa.",
+    "evidenciar": "não"
   },
   {
     "id": "frencoop",
     "termo": "FRENCOOP",
     "grupo": "org",
     "texto": "Bloco suprapartidário de parlamentares que atuam na defesa dos interesses do cooperativismo no Congresso Nacional. Historicamente relevante em momentos de disputa legislativa que ameaçaram a existência de cooperativas em determinados setores.",
-    "abbr": "Frente Parlamentar do Cooperativismo"
+    "abbr": "Frente Parlamentar do Cooperativismo",
+    "evidenciar": "não"
   },
   {
     "id": "friedrich-wilhelm-raiffeisen",
     "termo": "Friedrich Wilhelm Raiffeisen",
     "grupo": "hist",
-    "texto": "Criador da primeira cooperativa de crédito, na Alemanha, voltada ao apoio de comunidades rurais, com responsabilidade ilimitada dos associados e área de atuação restrita. O modelo Raiffeisen inspirou diretamente a primeira cooperativa de crédito brasileira."
+    "texto": "Criador da primeira cooperativa de crédito, na Alemanha, voltada ao apoio de comunidades rurais, com responsabilidade ilimitada dos associados e área de atuação restrita. O modelo Raiffeisen inspirou diretamente a primeira cooperativa de crédito brasileira.",
+    "evidenciar": "não"
   },
   {
     "id": "fundo-de-reserva",
     "termo": "Fundo de Reserva",
     "grupo": "econ",
-    "texto": "Fundo obrigatório e indivisível, formado por percentual mínimo das sobras, destinado a reparar perdas e viabilizar o desenvolvimento da cooperativa. É o primeiro recurso acionado diante de prejuízo. Muitas cooperativas retêm percentual bem acima do mínimo legal."
+    "texto": "Fundo obrigatório e indivisível, formado por percentual mínimo das sobras, destinado a reparar perdas e viabilizar o desenvolvimento da cooperativa. É o primeiro recurso acionado diante de prejuízo. Muitas cooperativas retêm percentual bem acima do mínimo legal.",
+    "evidenciar": "não"
   },
   {
     "id": "fundo-indivisivel",
     "termo": "Fundo indivisível",
     "grupo": "econ",
-    "texto": "Fundo cujo recurso não é repartido entre os cooperados: pertence à cooperativa e nela deve ser aplicado. A indivisibilidade existe para que quem sai não leve consigo parte do fundo — é o mecanismo que torna a cooperativa intergeracional."
+    "texto": "Fundo cujo recurso não é repartido entre os cooperados: pertence à cooperativa e nela deve ser aplicado. A indivisibilidade existe para que quem sai não leve consigo parte do fundo — é o mecanismo que torna a cooperativa intergeracional.",
+    "evidenciar": "não"
   },
   {
     "id": "herman-schulze-delitzsch",
     "termo": "Herman Schulze-Delitzsch",
     "grupo": "hist",
-    "texto": "Pioneiro das cooperativas de crédito urbanas na Alemanha, conhecidas como \"bancos populares\", voltadas a artesãos e pequenos comerciantes das cidades."
+    "texto": "Pioneiro das cooperativas de crédito urbanas na Alemanha, conhecidas como \"bancos populares\", voltadas a artesãos e pequenos comerciantes das cidades.",
+    "evidenciar": "não"
   },
   {
     "id": "impenhorabilidade-das-quotas-partes",
     "termo": "Impenhorabilidade das quotas-partes",
     "grupo": "econ",
-    "texto": "Proteção que impede que as quotas do associado sejam objeto de penhora judicial para quitação de dívidas pessoais, preservando a estabilidade financeira e a continuidade das atividades da cooperativa."
+    "texto": "Proteção que impede que as quotas do associado sejam objeto de penhora judicial para quitação de dívidas pessoais, preservando a estabilidade financeira e a continuidade das atividades da cooperativa.",
+    "evidenciar": "não"
   },
   {
     "id": "infracoop",
     "termo": "INFRACOOP",
     "grupo": "org",
-    "texto": "Confederação Nacional das Cooperativas de Infraestrutura. Representa cooperativas e federações estaduais do ramo, especialmente as voltadas à eletrificação e ao desenvolvimento rural, articulando-se junto ao Congresso, aos ministérios e ao setor elétrico."
+    "texto": "Confederação Nacional das Cooperativas de Infraestrutura. Representa cooperativas e federações estaduais do ramo, especialmente as voltadas à eletrificação e ao desenvolvimento rural, articulando-se junto ao Congresso, aos ministérios e ao setor elétrico.",
+    "evidenciar": "não"
   },
   {
     "id": "infraestrutura",
     "termo": "Infraestrutura",
     "grupo": "ramos",
-    "texto": "Presta serviços essenciais — energia, telecomunicações, saneamento, habitação, irrigação — especialmente onde outros agentes não têm interesse em atuar. Aqui o cooperado participa para *receber* o serviço, não para executá-lo."
+    "texto": "Presta serviços essenciais — energia, telecomunicações, saneamento, habitação, irrigação — especialmente onde outros agentes não têm interesse em atuar. Aqui o cooperado participa para *receber* o serviço, não para executá-lo.",
+    "evidenciar": "não"
   },
   {
     "id": "integralizacao",
     "termo": "Integralização",
     "grupo": "econ",
-    "texto": "Pagamento efetivo das quotas subscritas. Pode ser em dinheiro, em bens avaliados e aprovados pela assembleia, ou por retenção percentual sobre o movimento financeiro do associado. Algumas cooperativas adotam integralização mensal de valor reduzido, que funciona como poupança do próprio cooperado."
+    "texto": "Pagamento efetivo das quotas subscritas. Pode ser em dinheiro, em bens avaliados e aprovados pela assembleia, ou por retenção percentual sobre o movimento financeiro do associado. Algumas cooperativas adotam integralização mensal de valor reduzido, que funciona como poupança do próprio cooperado.",
+    "evidenciar": "não"
   },
   {
     "id": "intercooperacao",
     "termo": "Intercooperação",
     "grupo": "base",
-    "texto": "Cooperação entre cooperativas, em nível local, nacional e internacional, para ampliar eficiência, acesso a mercados e capacidade de atender aos membros. Não significa prestar serviços gratuitamente a outra cooperativa: significa valorização recíproca da atividade de cada uma, para que ambas cresçam."
+    "texto": "Cooperação entre cooperativas, em nível local, nacional e internacional, para ampliar eficiência, acesso a mercados e capacidade de atender aos membros. Não significa prestar serviços gratuitamente a outra cooperativa: significa valorização recíproca da atividade de cada uma, para que ambas cresçam.",
+    "evidenciar": "não"
   },
   {
     "id": "lei-geral-do-cooperativismo",
     "termo": "Lei Geral do Cooperativismo",
     "grupo": "reg",
-    "texto": "Lei nº 5.764/1971, principal norma que define a política nacional e o regime jurídico das sociedades cooperativas. Editada durante o regime militar, iniciou uma reconciliação com os princípios cooperativistas ao mesmo tempo em que preservou instrumentos de controle estatal."
+    "texto": "Lei nº 5.764/1971, principal norma que define a política nacional e o regime jurídico das sociedades cooperativas. Editada durante o regime militar, iniciou uma reconciliação com os princípios cooperativistas ao mesmo tempo em que preservou instrumentos de controle estatal.",
+    "evidenciar": "não"
   },
   {
     "id": "livre-admissao",
     "termo": "Livre admissão",
     "grupo": "estrut",
-    "texto": "Modalidade em que a cooperativa pode admitir qualquer pessoa de sua área de ação, sem exigência de vínculo profissional ou setorial específico. Contrasta com cooperativas de vínculo, restritas a determinada categoria — profissionais de saúde, servidores de um órgão, produtores de uma cultura."
+    "texto": "Modalidade em que a cooperativa pode admitir qualquer pessoa de sua área de ação, sem exigência de vínculo profissional ou setorial específico. Contrasta com cooperativas de vínculo, restritas a determinada categoria — profissionais de saúde, servidores de um órgão, produtores de uma cultura.",
+    "evidenciar": "não"
   },
   {
     "id": "luigi-luzzatti",
     "termo": "Luigi Luzzatti",
     "grupo": "hist",
-    "texto": "Fundador, na Itália, de um modelo de cooperativa de crédito que permitia a associação de pessoas sem vínculo específico entre si — moradores de um mesmo bairro, por exemplo. O modelo Luzzatti também chegou ao Brasil."
+    "texto": "Fundador, na Itália, de um modelo de cooperativa de crédito que permitia a associação de pessoas sem vínculo específico entre si — moradores de um mesmo bairro, por exemplo. O modelo Luzzatti também chegou ao Brasil.",
+    "evidenciar": "não"
   },
   {
     "id": "marca-coop",
     "termo": "Marca .coop",
     "grupo": "org",
-    "texto": "Domínio digital exclusivo de cooperativas, funcionando como credencial de pertencimento ao movimento cooperativista na internet. Acompanha o *Co-operative Marque*, logomarca global lançada pela ACI para consolidar a identidade visual do cooperativismo em escala mundial."
+    "texto": "Domínio digital exclusivo de cooperativas, funcionando como credencial de pertencimento ao movimento cooperativista na internet. Acompanha o *Co-operative Marque*, logomarca global lançada pela ACI para consolidar a identidade visual do cooperativismo em escala mundial.",
+    "evidenciar": "não"
   },
   {
     "id": "mutualismo",
     "termo": "Mutualismo",
     "grupo": "base",
-    "texto": "Princípio de ajuda recíproca em que os riscos e custos de um são partilhados pelo conjunto. É a lógica que sustenta as cooperativas de crédito e de seguros: quem não sofre o dano contribui para amparar quem sofre."
+    "texto": "Princípio de ajuda recíproca em que os riscos e custos de um são partilhados pelo conjunto. É a lógica que sustenta as cooperativas de crédito e de seguros: quem não sofre o dano contribui para amparar quem sofre.",
+    "evidenciar": "não"
   },
   {
     "id": "ocb",
     "termo": "OCB",
     "grupo": "org",
     "texto": "Entidade nacional de representação do cooperativismo brasileiro, reconhecida legalmente como órgão de representação do setor. Articula a defesa dos interesses das cooperativas junto aos poderes públicos, produz dados e estudos sobre o setor e é ligada à ACI.",
-    "abbr": "Organização das Cooperativas Brasileiras"
+    "abbr": "Organização das Cooperativas Brasileiras",
+    "evidenciar": "não"
   },
   {
     "id": "ocemg",
     "termo": "OCEMG",
     "grupo": "org",
     "texto": "Entidade estadual de representação do cooperativismo mineiro, integrante do Sistema OCB. Junto com o SESCOOP/MG, forma o Sistema OCEMG, responsável por registro, representação, formação e monitoramento das cooperativas do estado. Cada unidade da federação possui organização equivalente — OCESP em São Paulo, OCEPAR no Paraná, e assim por diante.",
-    "abbr": "Organização das Cooperativas do Estado de Minas Gerais"
+    "abbr": "Organização das Cooperativas do Estado de Minas Gerais",
+    "evidenciar": "não"
   },
   {
     "id": "oligopsonio",
     "termo": "Oligopsônio",
     "grupo": "reg",
-    "texto": "Situação de mercado com poucos compradores para muitos vendedores. É risco concreto para a autonomia cooperativa: uma cooperativa altamente dependente de um único comprador pode ter suas decisões comprometidas por interesses que não são os dos cooperados."
+    "texto": "Situação de mercado com poucos compradores para muitos vendedores. É risco concreto para a autonomia cooperativa: uma cooperativa altamente dependente de um único comprador pode ter suas decisões comprometidas por interesses que não são os dos cooperados.",
+    "evidenciar": "não"
   },
   {
     "id": "perdas-e-rateio",
     "termo": "Perdas e rateio",
     "grupo": "econ",
-    "texto": "Perdas são os prejuízos apurados no exercício. Não sendo suficiente o Fundo de Reserva para cobri-los, são rateados entre os associados — em regra proporcionalmente ao uso dos serviços, podendo o estatuto prever rateio igualitário para despesas gerais."
+    "texto": "Perdas são os prejuízos apurados no exercício. Não sendo suficiente o Fundo de Reserva para cobri-los, são rateados entre os associados — em regra proporcionalmente ao uso dos serviços, podendo o estatuto prever rateio igualitário para despesas gerais.",
+    "evidenciar": "não"
   },
   {
     "id": "pnc",
     "termo": "PNC",
     "grupo": "reg",
     "texto": "Arcabouço legal destinado a coordenar e estimular o desenvolvimento do cooperativismo, integrando as práticas cooperativas ao planejamento nacional por meio de assistência técnica e incentivos. Foi concebida em período de centralismo estatal, e carrega vestígios de uma era em que o cooperativismo era mais instrumento do Estado do que expressão autônoma da sociedade.",
-    "abbr": "Política Nacional de Cooperativismo"
+    "abbr": "Política Nacional de Cooperativismo",
+    "evidenciar": "não"
   },
   {
     "id": "principios-do-cooperativismo",
     "termo": "Princípios do cooperativismo",
     "grupo": "base",
     "texto": "Adesão voluntária e livre; gestão democrática pelos membros; participação econômica dos membros; autonomia e independência; educação, formação e informação; intercooperação; interesse pela comunidade.",
-    "nota": "Os valores não mudam; os princípios são periodicamente revisados nos congressos da ACI para refletir esses valores em cada época."
+    "nota": "Os valores não mudam; os princípios são periodicamente revisados nos congressos da ACI para refletir esses valores em cada época.",
+    "evidenciar": "não"
   },
   {
     "id": "pro-rata",
     "termo": "Pro rata",
     "grupo": "econ",
-    "texto": "Critério de distribuição proporcional: quem mais movimentou a cooperativa recebe maior parcela das sobras — e responde por maior parcela das perdas. É a regra geral; a distribuição igualitária é possível, mas depende de previsão estatutária expressa."
+    "texto": "Critério de distribuição proporcional: quem mais movimentou a cooperativa recebe maior parcela das sobras — e responde por maior parcela das perdas. É a regra geral; a distribuição igualitária é possível, mas depende de previsão estatutária expressa.",
+    "evidenciar": "não"
   },
   {
     "id": "quota-parte",
     "termo": "Quota-parte",
     "grupo": "econ",
-    "texto": "Valor, em dinheiro ou bens, que o associado integraliza para ingressar na cooperativa, tornando-se coproprietário. É vedada a transferência a terceiros não associados, salvo exceções legais — o que preserva a identidade coletiva do quadro social."
+    "texto": "Valor, em dinheiro ou bens, que o associado integraliza para ingressar na cooperativa, tornando-se coproprietário. É vedada a transferência a terceiros não associados, salvo exceções legais — o que preserva a identidade coletiva do quadro social.",
+    "evidenciar": "não"
   },
   {
     "id": "reguladores-setoriais",
     "termo": "Reguladores setoriais",
     "grupo": "reg",
-    "texto": "Órgãos que regulam a atuação de cooperativas conforme o ramo: o Banco Central, no crédito; a SUSEP, nos seguros; a ANEEL, na energia; a ANTT, no transporte; a ANS, na saúde suplementar. Cada um impõe exigências prudenciais e operacionais próprias."
+    "texto": "Órgãos que regulam a atuação de cooperativas conforme o ramo: o Banco Central, no crédito; a SUSEP, nos seguros; a ANEEL, na energia; a ANTT, no transporte; a ANS, na saúde suplementar. Cada um impõe exigências prudenciais e operacionais próprias.",
+    "evidenciar": "não"
   },
   {
     "id": "rochdale",
     "termo": "Rochdale",
     "grupo": "hist",
-    "texto": "Cidade industrial no norte da Inglaterra onde, em 1844, 28 trabalhadores fundaram a Rochdale Equitable Pioneers Society — marco inaugural do cooperativismo moderno. Estabeleceram princípios de gestão democrática, participação econômica, educação, intercooperação e interesse pela comunidade que fundamentam o movimento até hoje."
+    "texto": "Cidade industrial no norte da Inglaterra onde, em 1844, 28 trabalhadores fundaram a Rochdale Equitable Pioneers Society — marco inaugural do cooperativismo moderno. Estabeleceram princípios de gestão democrática, participação econômica, educação, intercooperação e interesse pela comunidade que fundamentam o movimento até hoje.",
+    "evidenciar": "não"
   },
   {
     "id": "saude",
     "termo": "Saúde",
     "grupo": "ramos",
-    "texto": "Reúne cooperativas médicas, odontológicas e de outras áreas da saúde humana, atuando na saúde suplementar e em parcerias com o setor público. O cooperativismo de saúde brasileiro é reconhecido como o maior do mundo."
+    "texto": "Reúne cooperativas médicas, odontológicas e de outras áreas da saúde humana, atuando na saúde suplementar e em parcerias com o setor público. O cooperativismo de saúde brasileiro é reconhecido como o maior do mundo.",
+    "evidenciar": "não"
   },
   {
     "id": "seguros",
     "termo": "Seguros",
     "grupo": "ramos",
-    "texto": "Permite que cooperados compartilhem riscos, com produtos de seguro voltados à inclusão e à educação securitária. É o ramo mais recente no Brasil, após décadas de restrição legal — embora seja centenário e consolidado em muitos países."
+    "texto": "Permite que cooperados compartilhem riscos, com produtos de seguro voltados à inclusão e à educação securitária. É o ramo mais recente no Brasil, após décadas de restrição legal — embora seja centenário e consolidado em muitos países.",
+    "evidenciar": "não"
   },
   {
     "id": "sescoop",
     "termo": "SESCOOP",
     "grupo": "org",
     "texto": "Entidade voltada à formação profissional, promoção social e monitoramento da gestão das cooperativas brasileiras. Integra o chamado \"Sistema S\" e materializa institucionalmente o 5º princípio — educação, formação e informação.",
-    "abbr": "Serviço Nacional de Aprendizagem do Cooperativismo"
+    "abbr": "Serviço Nacional de Aprendizagem do Cooperativismo",
+    "evidenciar": "não"
   },
   {
     "id": "sistema-ocb",
     "termo": "Sistema OCB",
     "grupo": "org",
-    "texto": "Conjunto formado pela OCB (representação institucional), pelo SESCOOP (formação e promoção social) e pela CNCoop (representação sindical). Cada estado possui uma organização estadual correspondente."
+    "texto": "Conjunto formado pela OCB (representação institucional), pelo SESCOOP (formação e promoção social) e pela CNCoop (representação sindical). Cada estado possui uma organização estadual correspondente.",
+    "evidenciar": "não"
   },
   {
     "id": "sncc",
     "termo": "SNCC",
     "grupo": "reg",
     "texto": "Estrutura que organiza o cooperativismo de crédito brasileiro dentro do Sistema Financeiro Nacional, estabelecida por lei complementar que se tornou o principal marco legal do setor.",
-    "abbr": "Sistema Nacional de Crédito Cooperativo"
+    "abbr": "Sistema Nacional de Crédito Cooperativo",
+    "evidenciar": "não"
   },
   {
     "id": "sobras",
     "termo": "Sobras",
     "grupo": "econ",
-    "texto": "Resultado positivo do exercício, apurado após as destinações obrigatórias aos fundos. Diferentemente do lucro — que remunera o capital investido —, as sobras retornam ao cooperado proporcionalmente à utilização que fez dos serviços."
+    "texto": "Resultado positivo do exercício, apurado após as destinações obrigatórias aos fundos. Diferentemente do lucro — que remunera o capital investido —, as sobras retornam ao cooperado proporcionalmente à utilização que fez dos serviços.",
+    "evidenciar": "não"
   },
   {
     "id": "somoscoop",
     "termo": "SomosCoop",
     "grupo": "org",
-    "texto": "Marca-movimento criada pelo Sistema OCB para dar identidade comum e visibilidade ao cooperativismo brasileiro perante a sociedade, reunindo cooperativas de todos os ramos sob uma mesma comunicação."
+    "texto": "Marca-movimento criada pelo Sistema OCB para dar identidade comum e visibilidade ao cooperativismo brasileiro perante a sociedade, reunindo cooperativas de todos os ramos sob uma mesma comunicação.",
+    "evidenciar": "não"
   },
   {
     "id": "subscricao",
     "termo": "Subscrição",
     "grupo": "econ",
-    "texto": "Ato pelo qual o cooperado se compromete formalmente a adquirir quotas-partes, no ingresso ou em aumento de capital. É promessa de contribuição — distinta do pagamento efetivo."
+    "texto": "Ato pelo qual o cooperado se compromete formalmente a adquirir quotas-partes, no ingresso ou em aumento de capital. É promessa de contribuição — distinta do pagamento efetivo.",
+    "evidenciar": "não"
   },
   {
     "id": "theodor-amstad",
     "termo": "Theodor Amstad",
     "grupo": "hist",
-    "texto": "Missionário jesuíta de origem suíça, fundador da primeira cooperativa de crédito do Brasil, no Rio Grande do Sul, seguindo o modelo Raiffeisen. Declarado por lei Patrono do Cooperativismo Brasileiro."
+    "texto": "Missionário jesuíta de origem suíça, fundador da primeira cooperativa de crédito do Brasil, no Rio Grande do Sul, seguindo o modelo Raiffeisen. Declarado por lei Patrono do Cooperativismo Brasileiro.",
+    "evidenciar": "não"
   },
   {
     "id": "trabalho-producao-de-bens-e-servicos",
     "termo": "Trabalho, produção de bens e serviços",
     "grupo": "ramos",
-    "texto": "Reúne profissionais que buscam autonomia e melhores condições de trabalho, prestando serviços especializados ou produzindo bens em comum. É o ramo que exige maior atenção quanto à integridade do modelo, pela ocorrência histórica de falsas cooperativas."
+    "texto": "Reúne profissionais que buscam autonomia e melhores condições de trabalho, prestando serviços especializados ou produzindo bens em comum. É o ramo que exige maior atenção quanto à integridade do modelo, pela ocorrência histórica de falsas cooperativas.",
+    "evidenciar": "não"
   },
   {
     "id": "transporte",
     "termo": "Transporte",
     "grupo": "ramos",
-    "texto": "Organiza profissionais de transporte de passageiros, cargas, entregas e turismo. Os cooperados são donos dos veículos. Muitas dessas cooperativas organizam a distribuição do trabalho por sistemas de fila, assegurando repartição equitativa das oportunidades."
+    "texto": "Organiza profissionais de transporte de passageiros, cargas, entregas e turismo. Os cooperados são donos dos veículos. Muitas dessas cooperativas organizam a distribuição do trabalho por sistemas de fila, assegurando repartição equitativa das oportunidades.",
+    "evidenciar": "não"
   },
   {
     "id": "valores-do-cooperativismo",
     "termo": "Valores do cooperativismo",
     "grupo": "base",
-    "texto": "Valores fundamentais: autoajuda, responsabilidade própria, democracia, igualdade, equidade e solidariedade. Valores éticos: honestidade, transparência, responsabilidade social e preocupação pelos outros."
+    "texto": "Valores fundamentais: autoajuda, responsabilidade própria, democracia, igualdade, equidade e solidariedade. Valores éticos: honestidade, transparência, responsabilidade social e preocupação pelos outros.",
+    "evidenciar": "não"
   }
 ]
