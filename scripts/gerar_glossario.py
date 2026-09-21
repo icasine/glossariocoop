@@ -35,7 +35,7 @@ for n, linha in enumerate(csv.DictReader(io.StringIO(texto_csv)), start=2):
         avisos.append(f"Linha {n} ({l['termo']}): sem texto")
 
     item = {"id": ident, "termo": l["termo"], "grupo": grupo, "texto": l.get("texto", "")}
-    for campo in ("abbr", "links", "relacionados", "nota", "tags", "evidenciar"):
+    for campo in ("abbr", "links", "relacionados", "nota", "tags", "evidenciar", "imagem"):
         if l.get(campo):
             item[campo] = l[campo]
 
